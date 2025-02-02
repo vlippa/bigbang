@@ -1,1 +1,2 @@
 # bigbang
+como tudo comecou
